@@ -1,7 +1,7 @@
-<h1 align="center">ＷＥＬＣＯＭＥ  ＴＯ  ＬＡＹＬＡ (BETA)</h1>
+<h1 align="center">ＷＥＬＣＯＭＥ  ＴＯ  ＬＡＹＬ</h1>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/jsghvRJ3ywg9y9QCEK/giphy.gif" alt="Logo" width=535 height=130>
+  <img src="https://imgur.com/fSZFr1i.png" alt="Logo">
 </div>
 
 <p align="center">Layla is a python script that automatically performs recon on a </br>given URL. It combines the outputs of other known tools into a single one.</p>
@@ -26,7 +26,7 @@
   3. Install all dependencies
   ```bash
   
-  ./install.sh
+  sudo ./install.sh
   
   ```
   4. Run the script
