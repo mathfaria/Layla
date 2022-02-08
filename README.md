@@ -1,7 +1,7 @@
-<h1 align="center">ＷＥＬＣＯＭＥ  ＴＯ  ＬＡＹＬ</h1>
+<h1 align="center">ＷＥＬＣＯＭＥ  ＴＯ  ＬＡＹＬＡ</h1>
 
 <div align="center">
-  <img src="https://imgur.com/fSZFr1i.png" alt="Logo">
+  <img src="https://imgur.com/fSZFr1i.png" alt="example">
 </div>
 
 <p align="center">Layla is a python script that automatically performs recon on a </br>given URL. It combines the outputs of other known tools into a single one.</p>
