@@ -88,7 +88,7 @@ if ("is behind" in detect_waf):
 	processed_string = detect_waf[detect_waf.find("is behind"):]
 	pre_parser  = processed_string.find("\x1b[1;96m") # process to get valuable results only
 	post_parser = processed_string.find("\x1b[0m")
-	which_waf   = processed_string[pre_parser+10:post_parser+7] # don't include color codes
+	which_waf   = processed_string[pre_parser:post_parser] # don't include color codes
 
 	print(Colors.BOLD + Colors.BLUE + "\n\t  [+] WAF: DETECTED [ %s ]" % which_waf + Colors.RESET)
 
