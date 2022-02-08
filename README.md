@@ -1,5 +1,4 @@
-<h1 align="center">ＷＥＬＣＯＭＥ  ＴＯ  ＬＡＹＬＡ</h1>
-<h2>NOT FINISHED YET!</h2>
+<h1 align="center">ＷＥＬＣＯＭＥ  ＴＯ  ＬＡＹＬＡ (BETA)</h1>
 
 <div align="center">
   <img src="https://media1.giphy.com/media/jsghvRJ3ywg9y9QCEK/giphy.gif" alt="Logo" width=535 height=130>
@@ -54,3 +53,15 @@
 
 * Directory Discovery</br>
   * <a href="https://github.com/maurosoria/dirsearch">dirsearch</a>
+ </br>
+
+## 	:pencil: TODO's:
+This script needs a lot of improvements, which I'll definitely add with time. I'll list some of them below:
+- [ ] Fine-tune some parameters from:
+  - [ ] NMAP
+  - [ ] AMASS
+- [ ] Add subdomain takeover detection with <a href="https://github.com/haccer/subjack">subjack</a>.
+- [ ] Add visual recon, <a href="https://github.com/michenriksen/aquatone">aquatone</a> would be nice for that.
+- [ ] Add permutation scanning using <a href="https://github.com/ProjectAnte/dnsgen">dnsgen</a>.
+- [ ] Add certificate search from <a href="https://crt.sh/">crt.sh</a>. (<a href="https://github.com/eslam3kl/crtfinder">automated script</a>)
+- [ ] Add GitHub recon.
