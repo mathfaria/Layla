@@ -33,7 +33,7 @@
   3. Install all dependencies
   ```bash
   
-  sudo ./install.sh
+  chmod +x install.sh & sudo ./install.sh
   
   ```
   4. Run the script
