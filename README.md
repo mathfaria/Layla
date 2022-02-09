@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/LICENSE-MIT-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/VERSION-1.0-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PYTHON-purple?style=for-the-badge">
+  
+</p>
+  
 <h1 align="center">ＷＥＬＣＯＭＥ  ＴＯ  ＬＡＹＬＡ</h1>
 
 <div align="center">
