@@ -14,7 +14,7 @@
   1. Cloning the project:</br>
   ```bash
   
-  git clone https://github.com/matheusfaria0/layla.git
+  git clone https://github.com/mthf0/layla.git
   
   ```
   2. Get into the project' folder:</br>
